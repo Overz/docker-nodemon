@@ -2,7 +2,7 @@
 
 ## Pré-requisitos:
 
-#### necessidade do docker + docker-compose instalado
+#### Necessidade do docker e docker-compose instalado, imagem docker para teste
 
 #### npm install<br> npm install express<br>npm install -g nodemon
 
