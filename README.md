@@ -4,7 +4,7 @@
 
 #### necessidade do docker + docker-compose instalado
 
-#### npm install express<br>npm install -g nodemon
+#### npm install<br> npm install express<br>npm install -g nodemon
 
 Aplicação modelo utilziando
 
