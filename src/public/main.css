@@ -3,4 +3,10 @@ body {
   font-size: large;
   text-align: center;
 }
+
+body div {
+  margin-top: 3em;
+  position: relative;
+  display: block;
+}
 /*# sourceMappingURL=main.css.map */
