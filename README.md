@@ -1,4 +1,4 @@
-# Apliação com Docker e Nodemon
+# Hello World com Docker & NodeJS
 
 ## Pré-requisitos:
 
