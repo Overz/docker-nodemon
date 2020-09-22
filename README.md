@@ -2,14 +2,12 @@
 
 ## Pré-requisitos:
 
-#### Necessidade do docker e docker-compose instalado, imagem docker para teste
-
-#### npm install<br> npm install express<br>npm install -g nodemon
+#### Necessidade do docker e docker-compose instalado
 
 Aplicação modelo utilziando
 
 &nbsp; - `Docker`<br>
-&nbsp; - `Nodemon`
+&nbsp; - `NodeJS`
 
 ## Passo-a-passo:
 
@@ -20,5 +18,5 @@ Aplicação modelo utilziando
 
 ## Subindo a aplicação:
 
-Após a configuração do docker-compose(descrito dentro do arquivo), e toda a aplicação, basta executar o comando `docker-compose up` para subir toda a apliação, se tudo der certo, a apliação ira abrir na porta selecionada.<br>
+Após a configuração do docker/docker-compose(descrito dentro do arquivo), e toda a aplicação, basta executar o comando `docker-compose up` para subir toda a apliação, se tudo der certo, a apliação ira abrir na porta selecionada.<br>
 Por padrão, Ctrl+C "quebra" a aplicação. Docker-compose utiliza também de um comando `docker-compose down`, que desce a aplicação.
